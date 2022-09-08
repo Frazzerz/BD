@@ -1,6 +1,6 @@
 # BD
-Basi di dati
 
-Creazione di un database
+Creation and configuration of a database that manages online games
 
-Laboratorio finale del corso anno accademico 2020/21
+University project of the BD (Base di dati) course, academic year 2020/21
+
