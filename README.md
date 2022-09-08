@@ -1,4 +1,4 @@
-# BD
+# Database
 
 Creation and configuration of a database that manages online games
 
